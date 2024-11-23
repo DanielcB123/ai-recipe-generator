@@ -47,6 +47,9 @@ function App() {
   return (
     <div className="app-container">
       <div className="header-container">
+        <h1>Daniel Burgess</h1>
+        <br></br>
+        <h1>dcb0220</h1>
         <h1 className="main-header">
           Meet Your Personal
           <br />
